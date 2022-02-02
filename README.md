@@ -1,5 +1,12 @@
-### Hi there 👋
+<img align="left" width="40px" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-2-1.png"/> Guti#5698
 
+<hr width = "500vw">
+
+![](https://github-readme-stats.vercel.app/api?username=guti-404&show_icons=true&theme=tokyonight&hide=["issues"])
+
+<hr width = "500vw">
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=guti-404&repo=g-carhud)](https://github.com/guti-404/g-carhud)
 <!--
 **guti-404/guti-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
