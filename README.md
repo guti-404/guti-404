@@ -1,12 +1,19 @@
 <img align="left" width="40px" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-2-1.png"/> Guti#5698
 
-<hr width = "500vw">
+<br>
 
-![](https://github-readme-stats.vercel.app/api?username=guti-404&show_icons=true&theme=tokyonight&hide=["issues"])
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guti-404&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guti-404&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-<hr width = "500vw">
+<br>
+<br>
+<div>
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=guti-404&repo=g-carhud)](https://github.com/guti-404/g-carhud)
+
+</div>  
 <!--
 **guti-404/guti-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
