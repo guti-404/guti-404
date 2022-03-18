@@ -11,7 +11,7 @@
 <br>
 <div>
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=guti-404&repo=g-carhud)](https://github.com/guti-404/g-carhud)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=guti-404&repo=g-carhudV2)](https://github.com/guti-404/g-carhudV2)
 
 </div>  
 <!--
